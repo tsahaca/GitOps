@@ -5,6 +5,5 @@
 <u>Principles</u>
 
 * Git repository is the declarative source of truth for desired state
-* Apply development pratices to infrastructure:
-
+* Apply development pratices to infrastructure: +
 Collaboration, version control, testing and CI/CD
