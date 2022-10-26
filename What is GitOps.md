@@ -2,7 +2,8 @@
 
 ### An Operational model for infrastructure automation
 
-<U>Principles</U>
+Principles
+---
 
 * Git repository is the declarative source of truth for desired state
 * Apply development pratices to infrastructure: 
